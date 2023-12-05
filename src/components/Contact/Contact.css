@@ -1,0 +1,104 @@
+#contactPage{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+.contactPageTitle{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+.clientsDesc{
+    font-weight: 300;
+    font-size: 1rem;
+    max-width: 45rem;
+    text-align: center;
+}
+.clientsImgs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem auto;
+    flex-wrap: wrap;
+
+}
+.clientImg{
+    margin: 0 1rem;
+    height: 80px;
+    width: 150px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    color: red;
+}
+.img1{
+    padding: 1rem;
+    color: #fff;
+}
+.img2{
+    padding: 1rem;
+    color: pink;
+}
+.img3{
+    padding: 1rem;
+    color: blue;
+}
+
+#contact{
+    padding: 3rem;
+}
+.contactDesc{
+    margin-left: 200px;
+    font-size: medium;
+    font-weight: 300;
+}
+.contactForm{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    max-width: 60rem;
+}
+.name, .email, .msg{
+    font-size: medium;
+    width: 100%;
+    max-width: 40rem;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    color: white;
+    border: none;
+    outline: none;
+    border: 0.5px solid lightgray;
+    background: rgb(40, 40, 40);
+    border-radius: 8px;
+}
+.submitBtn{
+    background-color: #fff;
+    border: none;
+    padding: 0.75rem;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    margin: 2rem;
+}
+.links{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.link{
+    width: 80px;
+    margin: 0 1rem;
+    border-radius: 50%;
+}
+.li{
+    width: 120px;
+}

@@ -1,0 +1,52 @@
+#works{
+    
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+.worksTitle{
+    margin: 1rem 0;
+    font-size: 3rem;
+}
+.worksDes{
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 25px;
+    max-width: 45rem;
+}
+.worksImgs{
+    display: flex;
+    align-items: center;
+    display: flex;
+    width: 100vw;
+    max-width: 65rem;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 1rem 0;
+}
+.worksImg{
+    object-fit: cover;
+    width: 280px;
+    height: 280px;
+    margin: 0.5rem;
+    border-radius: 1rem;
+    
+}
+.worksBtn{
+    padding: 0.5rem 2rem;
+    background-color: #fff;
+    color: black;
+    border: none;
+    border-radius: 2rem;
+    margin: 3rem 0;
+    cursor: pointer;
+}
+
+
