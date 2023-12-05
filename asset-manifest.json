@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Resume/static/css/main.0bdba76a.css",
+    "main.js": "/Resume/static/js/main.8d481be5.js",
+    "static/media/image5.jpg": "/Resume/static/media/image5.3b3cb07ed0d22d64ba1b.jpg",
+    "static/media/instagram.png": "/Resume/static/media/instagram.e999b81660edb951de66.png",
+    "static/media/image2.jpg": "/Resume/static/media/image2.ebca385791b464793763.jpg",
+    "static/media/ekele1.jpg": "/Resume/static/media/ekele1.db56f8272683590f7a4c.jpg",
+    "static/media/linkedln.jpg": "/Resume/static/media/linkedln.657a8127976d552e7f21.jpg",
+    "static/media/Letter.png": "/Resume/static/media/Letter.d2ff2ef2e97be4f66209.png",
+    "static/media/image7.jpg": "/Resume/static/media/image7.327f5fa2d9a6ca723923.jpg",
+    "static/media/contact.webp": "/Resume/static/media/contact.8fda4d86ee48939c9259.webp",
+    "static/media/image3.avif": "/Resume/static/media/image3.22684103e363f27a748a.avif",
+    "static/media/hire.png": "/Resume/static/media/hire.e0a3f7663e309774b5dc.png",
+    "static/media/contact1.jpg": "/Resume/static/media/contact1.9a35901a24d3b263d7d4.jpg",
+    "static/media/pic.jpg": "/Resume/static/media/pic.01fe8d28a5a0af81f8e2.jpg",
+    "static/media/youtube.webp": "/Resume/static/media/youtube.632c6aec0e3c072a7314.webp",
+    "index.html": "/Resume/index.html",
+    "main.0bdba76a.css.map": "/Resume/static/css/main.0bdba76a.css.map",
+    "main.8d481be5.js.map": "/Resume/static/js/main.8d481be5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bdba76a.css",
+    "static/js/main.8d481be5.js"
+  ]
+}
